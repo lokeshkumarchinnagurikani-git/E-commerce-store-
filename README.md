@@ -1159,3 +1159,15 @@ footer.innerHTML =
 
 }
  
+<img src="images/apple.jpg" alt="Apple">
+<img src="images/banana.jpg" alt="Banana">
+<img src="images/orange.jpg" alt="Orange">
+<img src="images/mango.jpg" alt="Mango">
+<img src="images/tomato.jpg" alt="Tomato">
+<img src="images/potato.jpg" alt="Potato">
+<img src="images/carrot.jpg" alt="Carrot">
+<img src="images/cabbage.jpg" alt="Cabbage">
+<img src="images/spinach.jpg" alt="Spinach">
+<img src="images/onion.jpg" alt="Onion">
+<img src="images/grapes.jpg" alt="Grapes">
+<img src="images/watermelon.jpg" alt="Watermelon">
